@@ -51,6 +51,60 @@ namespace DataTableSample
         protected global::System.Web.UI.WebControls.Button ButtonSearchByPhone;
 
         /// <summary>
+        /// TextBoxSearchByFornavn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSearchByFornavn;
+
+        /// <summary>
+        /// ButtonSearchByFornavn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonSearchByFornavn;
+
+        /// <summary>
+        /// TextBoxSearchByBTID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSearchByBTID;
+
+        /// <summary>
+        /// ButtonSearchByBTID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonSearchByBTID;
+
+        /// <summary>
+        /// TextBoxSearchByPostNR control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSearchByPostNR;
+
+        /// <summary>
+        /// ButtonSearchByPostNR control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonSearchByPostNR;
+
+        /// <summary>
         /// ButtonShowAllBoliger control.
         /// </summary>
         /// <remarks>
@@ -60,6 +114,132 @@ namespace DataTableSample
         protected global::System.Web.UI.WebControls.Button ButtonShowAllBoliger;
 
         /// <summary>
+        /// ButtonPoststedSarpsborg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonPoststedSarpsborg;
+
+        /// <summary>
+        /// ButtonShowAllEier control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonShowAllEier;
+
+        /// <summary>
+        /// TextBoxInsertID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxInsertID;
+
+        /// <summary>
+        /// TextBoxInsertFornavn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxInsertFornavn;
+
+        /// <summary>
+        /// TextBoxInsertEtternavn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxInsertEtternavn;
+
+        /// <summary>
+        /// TextBoxInsertAdresse control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxInsertAdresse;
+
+        /// <summary>
+        /// TextBoxInsertTelefonNR control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxInsertTelefonNR;
+
+        /// <summary>
+        /// TextBoxInsertPostNR control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxInsertPostNR;
+
+        /// <summary>
+        /// ButtonInsert control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonInsert;
+
+        /// <summary>
+        /// GridViewShowAllEier control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewShowAllEier;
+
+        /// <summary>
+        /// GridViewSortBoligByTelefon control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewSortBoligByTelefon;
+
+        /// <summary>
+        /// GridViewSortBoligByFornavn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewSortBoligByFornavn;
+
+        /// <summary>
+        /// GridViewSortBoligByBTID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewSortBoligByBTID;
+
+        /// <summary>
+        /// GridViewSortBoligByPostNR control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewSortBoligByPostNR;
+
+        /// <summary>
         /// GridViewBoligEiere control.
         /// </summary>
         /// <remarks>
@@ -67,5 +247,14 @@ namespace DataTableSample
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView GridViewBoligEiere;
+
+        /// <summary>
+        /// GridViewPoststedSarpsborg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewPoststedSarpsborg;
     }
 }
